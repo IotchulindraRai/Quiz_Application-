@@ -21,9 +21,13 @@ Email -**chulindrarai123@gmail.com**
 buy ❤️me Coffee 🍵 **8867303660@paytm**
 # Follow Me on
 LinkedIn -https://www.linkedin.com/in/chulindra-rai-a51308206?originalSubdomain=in
+
 Instagram - https://www.instagram.com/am_your_cure013/
+
 Facebook - https://www.facebook.com/people/Chulindra-Rai/100009878854952/
+
 Twitter - https://twitter.com/chulindra
+
 Github - https://github.com/IotchulindraRai/
 
 # features:
