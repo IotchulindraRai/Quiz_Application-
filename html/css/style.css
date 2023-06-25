@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  background: #1f1d1f;
+  color: #352cbc;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px 0;
+  background: #2e2b2e;
+  text-align: center;
+}
+
+#header h2 {
+  margin: 0;
+}
+
+#quiz-container,
+#start-page,
+#score-container,
+#highscore-page {
+  width: 80vw;
+  max-width: 600px;
+  background: #020b116a;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(161, 81, 81, 0.3);
+  text-align: center;
+}
+
+#progress-bar {
+  height: 20px;
+  background: #99aab5;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+#progress-bar-fill {
+  content: "";
+  display: block;
+  height: 100%;
+  width: 0;
+  background: #899c37;
+  transition: width 0.3s ease-in-out;
+}
+
+#progress-bar-text {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.option-btn,
+#start-btn,
+#highscore-btn,
+#next-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #99aab5;
+  border-radius: 5px;
+  background: transparent;
+  color: #84eadc;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.option-btn:hover,
+#start-btn:hover,
+#highscore-btn:hover,
+#next-btn:hover {
+  background: #081e71;
+}
+
+.correct {
+  background: #36a443 !important;
+}
+
+.wrong {
+  background: #e93030 !important;
+}
+
+#score-container h2,
+#highscore-page h2 {
+  margin-top: 0;
+}
+
+
+#button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#button-container button {
+  width: 200px;
+  margin: 10px auto;
+}
+
+#button-container p {
+  color: #999;
+}
+
+#button-container #year {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+#highscores p {
+  margin: 0;
+  border-bottom: 1px solid #99aab5;
+  padding: 10px 0;
+}
+
+/* Timer Styles */
+#timer {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#timer-value {
+  color: #7289da;
+}

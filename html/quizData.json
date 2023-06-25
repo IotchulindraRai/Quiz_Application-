@@ -1,0 +1,200 @@
+[
+    {
+      "question": "Write a function in JavaScript to reverse a string.",
+      "options": [
+        
+        "function strReverse(str) { /* implementation */ }",
+        "function stringReverse(str) { /* implementation */ }",
+        "function reverse(str) { /* implementation */ }",
+        "function reverseString(str) { /* implementation */ }"
+      ],
+      "answer": "function reverseString(str) { /* implementation */ }"
+    },
+    {
+      "question": "Write a function in Python to calculate the factorial of a number.",
+      "options": [
+        
+        "def calculate_factorial(n): # implementation",
+        "def factorial(n): # implementation",
+        "def factorial_calc(n): # implementation",
+        "def fact(n): # implementation"
+      ],
+      "answer": "def factorial(n): # implementation"
+    },
+    {
+      "question": "Write a Java program to find the maximum element in an array.",
+      "options": [
+        "public static int findMax(int[] arr) { // implementation }",
+        "public static int getMax(int[] arr) { // implementation }",
+        "public static int maxElement(int[] arr) { // implementation }",
+        "public static int findLargest(int[] arr) { // implementation }"
+      ],
+      "answer": "public static int findMax(int[] arr) { // implementation }"
+    },
+    {
+      "question": "Write a function in C++ to check if a number is even or odd.",
+      "options": [
+        "bool evenOddCheck(int num) { // implementation }",
+        "bool isEvenOdd(int num) { // implementation }",
+        "bool checkEvenOdd(int num) { // implementation }",
+        
+        "bool isNumberEvenOdd(int num) { // implementation }"
+      ],
+      "answer": "bool isEvenOdd(int num) { // implementation }"
+    },
+    {
+      "question": "Write a function in JavaScript to find the largest element in an array.",
+      "options": [
+        
+        "function getMaxElement(arr) { // implementation }",
+        "function largestElement(arr) { // implementation }",
+        "function findLargest(arr) { // implementation }",
+        "function findMax(arr) { // implementation }"
+      ],
+      "answer": "function findLargest(arr) { // implementation }"
+    },
+    {
+      "question": "Write a Python program to count the occurrences of a character in a string.",
+      "options": [
+        "def countOccurrences(char, str): # implementation",
+        "def charCount(char, str): # implementation",
+        "def occurrenceCount(char, str): # implementation",
+        "def countChar(char, str): # implementation"
+      ],
+      "answer": "def countOccurrences(char, str): # implementation"
+    },
+    {
+      "question": "Write a Java program to find the sum of all elements in an array.",
+      "options": [
+        "public static int calculateSum(int[] arr) { // implementation }",
+        "public static int getSum(int[] arr) { // implementation }",
+        "public static int sumElements(int[] arr) { // implementation }",
+        "public static int findSum(int[] arr) { // implementation }"
+      ],
+      "answer": "public static int calculateSum(int[] arr) { // implementation }"
+    },
+    {
+      "question": "Write a function in C++ to check if a string is a palindrome.",
+      "options": [
+        "bool isPalindrome(string str) { // implementation }",
+        "bool checkPalindrome(string str) { // implementation }",
+        "bool palindromeCheck(string str) { // implementation }",
+        "bool isStringPalindrome(string str) { // implementation }"
+      ],
+      "answer": "bool isPalindrome(string str) { // implementation }"
+    },
+    {
+      "question": "Write a function in JavaScript to find the factorial of a number.",
+      "options": [
+        "function factorial(n) { // implementation }",
+        "function calculateFactorial(n) { // implementation }",
+        "function fact(n) { // implementation }",
+        "function getFactorial(n) { // implementation }"
+      ],
+      "answer": "function factorial(n) { // implementation }"
+    },
+    {
+      "question": "Write a Python program to check if a string is a palindrome.",
+      "options": [
+        "def isPalindrome(str): # implementation",
+        "def checkPalindrome(str): # implementation",
+        "def palindromeCheck(str): # implementation",
+        "def isStringPalindrome(str): # implementation"
+      ],
+      "answer": "def isPalindrome(str): # implementation"
+    },
+    {
+      "question": "Write a Java program to reverse an array.",
+      "options": [
+        "public static void reverseArray(int[] arr) { // implementation }",
+        "public static int[] arrayReverse(int[] arr) { // implementation }",
+        "public static int[] reverse(int[] arr) { // implementation }",
+        "public static void reverse(int[] arr) { // implementation }"
+      ],
+      "answer": "public static void reverseArray(int[] arr) { // implementation }"
+    },
+    {
+      "question": "Write a function in C++ to calculate the sum of digits of a number.",
+      "options": [
+        "int calculateSumOfDigits(int num) { // implementation }",
+        "int sumDigits(int num) { // implementation }",
+        "int digitSum(int num) { // implementation }",
+        "int getSumOfDigits(int num) { // implementation }"
+      ],
+      "answer": "int calculateSumOfDigits(int num) { // implementation }"
+    },
+    {
+      "question": "Write a function in JavaScript to check if a number is a palindrome.",
+      "options": [
+        "function isPalindrome(num) { // implementation }",
+        "function checkPalindrome(num) { // implementation }",
+        "function palindromeCheck(num) { // implementation }",
+        "function isNumberPalindrome(num) { // implementation }"
+      ],
+      "answer": "function isPalindrome(num) { // implementation }"
+    },
+    {
+      "question": "Write a Python program to find the sum of digits of a number.",
+      "options": [
+        "def calculateSumOfDigits(num): # implementation",
+        "def sumDigits(num): # implementation",
+        "def digitSum(num): # implementation",
+        "def getSumOfDigits(num): # implementation"
+      ],
+      "answer": "def calculateSumOfDigits(num): # implementation"
+    },
+    {
+      "question": "Write a Java program to check if a number is a palindrome.",
+      "options": [
+        "public static boolean isPalindrome(int num) { // implementation }",
+        "public static boolean checkPalindrome(int num) { // implementation }",
+        "public static boolean palindromeCheck(int num) { // implementation }",
+        "public static boolean isNumberPalindrome(int num) { // implementation }"
+      ],
+      "answer": "public static boolean isPalindrome(int num) { // implementation }"
+    },
+    {
+      "question": "Write a function in C++ to find the factorial of a number.",
+      "options": [
+        "int factorial(int n) { // implementation }",
+        "int calculateFactorial(int n) { // implementation }",
+        "int fact(int n) { // implementation }",
+        "int getFactorial(int n) { // implementation }"
+      ],
+      "answer": "int factorial(int n) { // implementation }"
+    },
+    {
+      "question": "Write a function in JavaScript to check if a string is a palindrome.",
+      "options": [
+        
+        "function checkPalindrome(str) { // implementation }",
+        "function palindromeCheck(str) { // implementation }",
+        "function isStringPalindrome(str) { // implementation }",
+        "function isPalindrome(str) { // implementation }"
+      ],
+      "answer": "function isPalindrome(str) { // implementation }"
+    },
+    {
+      "question": "Write a Python program to reverse a string.",
+      "options": [
+        
+        "def strReverse(str): # implementation",
+        "def reverseString(str): # implementation",
+        "def stringReverse(str): # implementation",
+        "def reverse(str): # implementation"
+      ],
+      "answer": "def reverseString(str): # implementation"
+    },
+    {
+      "question": "Write a Java program to check if a string is a palindrome.",
+      "options": [
+        "public static boolean isStringPalindrome(String str) { // implementation }",
+        "public static boolean isPalindrome(String str) { // implementation }",
+        "public static boolean checkPalindrome(String str) { // implementation }",
+        "public static boolean palindromeCheck(String str) { // implementation }"
+        
+      ],
+      "answer": "public static boolean isPalindrome(String str) { // implementation }"
+    }
+  ]
+  
