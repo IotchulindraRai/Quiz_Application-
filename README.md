@@ -3,8 +3,6 @@ This project appears to be an online quiz application implemented using HTML, CS
 where users can answer multiple-choice questions and track their score. Let's go through the different components of the project: This project is develop by
 Me chulindra when i was learning and attending webinar / Master class  of Acciojob  named as Masterclass on the topic
 'Build a Quiz App Using HTML, CSS & JavaScript' 2023 june 25.
-**live demo link** : https://gsdghu.pages.dev/
-
 # Technologies Used
 HTML5
 CSS3
