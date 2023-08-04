@@ -4,7 +4,6 @@ where users can answer multiple-choice questions and track their score. Let's go
 Me chulindra when i was learning and attending webinar / Master class  of Acciojob  named as Masterclass on the topic
 'Build a Quiz App Using HTML, CSS & JavaScript' 2023 june 25.
 
-
 # Technologies Used
 HTML5
 CSS3
